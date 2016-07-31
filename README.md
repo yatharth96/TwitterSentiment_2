@@ -17,3 +17,11 @@ Sentimental analysis of twitter data
 ### Features
  - Cleans the data before analysing.
  - Removes repeated tweets/words.
+
+### License
+List of positive and negative words taken from [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html).
+
+*Research Paper* - Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews." 
+      Proceedings of the ACM SIGKDD International Conference on Knowledge 
+      Discovery and Data Mining (KDD-2004), Aug 22-25, 2004, Seattle, 
+       Washington, USA
